@@ -70,6 +70,7 @@ font-size: 24px;
 
 #result span{
     color: #fbff09;
+    text-decoration: underline;
 }
 #result h3{
     
